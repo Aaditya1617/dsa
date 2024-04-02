@@ -1,4 +1,5 @@
 /*
+Sliding Window Algorithm
  identification
  array/string linear hona chahiye coz generally
  coz window break nhi hogi continous hogi
@@ -9,6 +10,6 @@ maximum ya minimum kuch nikalne ko kha hoga
 
 types 
 fixed size window => isme size diya hota h uspe ake hme kuch calculation krni hoti h
-variable size window => largest/ smallest window nikalni hoti h subjected to a condition
+variable size window => largest/ smallest window nikalni hoti h subjected to a condition map/list use ho skte h
 
 */
